@@ -9,8 +9,11 @@ require (
 	github.com/gbrlsnchs/radix v1.0.0 // indirect
 	github.com/google/uuid v1.1.2 // indirect
 	github.com/ihexxa/q-radix v0.0.0-20201118143423-38fc2f7e0f89
+	github.com/ihexxa/randstr v0.2.0
 	github.com/kellydunn/go-art v0.0.1
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/spf13/cobra v1.1.1 // indirect
 	github.com/stretchr/testify v1.6.1 // indirect
 )
+
+replace github.com/ihexxa/randstr => /Users/jiah/ws/github.com/ihexxa/randstr
